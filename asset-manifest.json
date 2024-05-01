@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/karina-portfolio/static/css/main.3deeadd9.css",
+    "main.js": "/karina-portfolio/static/js/main.6d9bfb35.js",
+    "static/media/demo_fruitseason.webm": "/karina-portfolio/static/media/demo_fruitseason.50d1457d9c680f60d5a7.webm",
+    "static/media/demo_android.webm": "/karina-portfolio/static/media/demo_android.b1d3eeb7530a7ebdd526.webm",
+    "static/media/demo_calculator.mp4": "/karina-portfolio/static/media/demo_calculator.f608b3ecbaf67efeb2f1.mp4",
+    "static/media/about.jpg": "/karina-portfolio/static/media/about.bc3e3988c1e7454f4a07.jpg",
+    "static/media/demo_gas_station.png": "/karina-portfolio/static/media/demo_gas_station.009cd307f1c28ee6b59a.png",
+    "static/media/header1.jpg": "/karina-portfolio/static/media/header1.dfd0a48f71d5533f790a.jpg",
+    "static/media/project2.png": "/karina-portfolio/static/media/project2.9924e1e725d253c6f5ab.png",
+    "static/media/demo_API.png": "/karina-portfolio/static/media/demo_API.91ef4e34aee3553dd3c5.png",
+    "static/media/demo_multitier.png": "/karina-portfolio/static/media/demo_multitier.20c0bf26984d820fa001.png",
+    "static/media/project4.jpg": "/karina-portfolio/static/media/project4.b26dcfd80c06fa4bd17b.jpg",
+    "static/media/project7.png": "/karina-portfolio/static/media/project7.0f7908e7126d9ddf5e98.png",
+    "static/media/project5.jpg": "/karina-portfolio/static/media/project5.7bd1b8d16ab11dd2ee34.jpg",
+    "static/media/demo_project1.png": "/karina-portfolio/static/media/demo_project1.a90af065292490647b70.png",
+    "static/media/project3.png": "/karina-portfolio/static/media/project3.62a2cd396ab5fefbb477.png",
+    "static/media/Resume_KarinaContini.pdf": "/karina-portfolio/static/media/Resume_KarinaContini.4653593c2e88b7df77e6.pdf",
+    "static/media/project1.png": "/karina-portfolio/static/media/project1.0328d4ff97416f59ecf9.png",
+    "static/media/project6.png": "/karina-portfolio/static/media/project6.16415728ddf359f87feb.png",
+    "static/media/logo.png": "/karina-portfolio/static/media/logo.dfd062b4b20621e3404a.png",
+    "index.html": "/karina-portfolio/index.html",
+    "main.3deeadd9.css.map": "/karina-portfolio/static/css/main.3deeadd9.css.map",
+    "main.6d9bfb35.js.map": "/karina-portfolio/static/js/main.6d9bfb35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3deeadd9.css",
+    "static/js/main.6d9bfb35.js"
+  ]
+}
